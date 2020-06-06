@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "altered_dimensions:blocks/dirt",
+    "up": "altered_dimensions:blocks/grass_block_top",
+    "north": "altered_dimensions:blocks/grass_block_side",
+    "east": "altered_dimensions:blocks/grass_block_side",
+    "south": "altered_dimensions:blocks/grass_block_side",
+    "west": "altered_dimensions:blocks/grass_block_side",
+    "particle": "altered_dimensions:blocks/dirt"
+  }
+}

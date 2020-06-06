@@ -1,0 +1,38 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Reddimensiondirt",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reddimensiondirt"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.altered_dimensions.reddimensiondirt": "Reddimensiondirt"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "altered_dimensions",
+    "modName": "Altered Dimensions",
+    "version": "1.0.0",
+    "author": "OMEN 870-296nz, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.altereddimensions",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000322116
+}
